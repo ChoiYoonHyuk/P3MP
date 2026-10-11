@@ -1,6 +1,6 @@
 # Persistent Tri-State Message Passing
 
-<img width="2547" height="1024" alt="Image" src="https://github.com/user-attachments/assets/9ca7425b-b16d-4595-be59-9676dc6621f2" />
+<img width="3547" height="1024" alt="Image" src="https://github.com/user-attachments/assets/9ca7425b-b16d-4595-be59-9676dc6621f2" />
 
 ## Overview
 
